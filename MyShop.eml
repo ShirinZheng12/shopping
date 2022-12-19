@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/MyShop"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 9.0.26" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 9.0.26" value="application_server_libraries"/>
+		<level name="mysql-connector-java-8.0.16" value="project"/>
+		<level name="jstl-1.2" value="project"/>
+	</levels>
+</component>
